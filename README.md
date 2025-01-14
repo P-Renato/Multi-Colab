@@ -11,11 +11,15 @@ Zico, Paul McCartney Ayton Senna
 ## If you could live anywhere, where would it be?
 
 ## What did you want to be when you were small?
-
+Like Slash (Gun's n' Roses)
 ## Would you rather ride a bike, ride a horse, or drive a car?
-
+A bike
 ## what is your favorite dish? (list the main ingredients)
-
+Feijoada
+ - rice 
+ - beans
+ - meat
+ - 
 ## What is your favorite color?
 
 ## What is your fav. videogame?
