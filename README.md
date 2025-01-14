@@ -21,13 +21,13 @@ Feijoada
  - meat
  - 
 ## What is your favorite color?
-
+Blue
 ## What is your fav. videogame?
-
+GTA V
 ## Does it bother you to be confronted with unexpected situations?
-
+Sometimes
 ## In the evening, would you rather play a game, visit a friend, watch a movie, or read?
-
+All of those, depends on the evening
 ## How would your friends describe you?
 
 ## What is the best gift you have been given?
