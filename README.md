@@ -30,10 +30,10 @@ zara:a good Doctor
 ## What is the worst gift you have received?
 
 ## If you were a super-hero, what powers would you have?
-
+zara: flying Power
 ## What's the most unusual thing you've ever eaten?
-zara: not remembering
+zara: not remembering 
+zara:nothing was like that
 ## Is your glass half full or half empty?
-zara: its always haf empty
+
 ## If you had a warning label, what would yours say?
-zara: there is always a solutions for every Problems
