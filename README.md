@@ -1,8 +1,14 @@
 # Multi-Colab
+## If you could live anywhere, where would it be?
+- UK
 ## What is your favorite holiday destination?
-Xuyen likes spending holidays in Japan.
+- Xuyen likes spending holidays in Japan.
+
+- Fränze: South Korea, London, Edinburgh
 ## What should your dreamjob be like?
-Xuyen likes the job with flexible time and high salary.
+- Xuyen likes the job with flexible time and high salary.
+
+- Fränze: remote, exciting, nice collegues
 ## What really makes you angry?
 
 ## Who is your hero?
