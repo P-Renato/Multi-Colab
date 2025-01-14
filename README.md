@@ -4,13 +4,13 @@ Xuyen likes spending holidays in Japan.
 ## What should your dreamjob be like?
 Xuyen likes the job with flexible time and high salary.
 ## What really makes you angry?
-solving the problem
+zara:solving the problem
 ## Who is your hero?
-the one whom i am motivat from
+zara:the one whom i am motivat from
 ## If you could live anywhere, where would it be?
-the Peace Place
+zara:the Peace Place
 ## What did you want to be when you were small?
-a good Doctor
+zara:a good Doctor
 ## Would you rather ride a bike, ride a horse, or drive a car?
 
 ## what is your favorite dish? (list the main ingredients)
@@ -32,7 +32,8 @@ a good Doctor
 ## If you were a super-hero, what powers would you have?
 
 ## What's the most unusual thing you've ever eaten?
-
+zara: not remembering
 ## Is your glass half full or half empty?
-
+zara: its always haf empty
 ## If you had a warning label, what would yours say?
+zara: there is always a solutions for every Problems
