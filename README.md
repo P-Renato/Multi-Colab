@@ -10,13 +10,13 @@
 
 - Fränze: remote, exciting, nice collegues
 ## What really makes you angry?
-solving the problem
+zara:solving the problem
 ## Who is your hero?
-the one whom i am motivat from
+zara:the one whom i am motivat from
 ## If you could live anywhere, where would it be?
-the Peace Place
+zara:the Peace Place
 ## What did you want to be when you were small?
-a good Doctor
+zara:a good Doctor
 ## Would you rather ride a bike, ride a horse, or drive a car?
 
 ## what is your favorite dish? (list the main ingredients)
@@ -36,9 +36,10 @@ a good Doctor
 ## What is the worst gift you have received?
 
 ## If you were a super-hero, what powers would you have?
-
+zara: flying Power
 ## What's the most unusual thing you've ever eaten?
-
+zara: not remembering 
+zara:nothing was like that
 ## Is your glass half full or half empty?
 
 ## If you had a warning label, what would yours say?
